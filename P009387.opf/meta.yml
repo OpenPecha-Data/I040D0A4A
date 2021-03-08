@@ -4,4 +4,9 @@ source_metadata:
   id: bdr:W8LS17566
   title: སྙན་ངག་མེ་ལོང་གི་དཀའ་འགྲེལ།
   author: ''
-  volumes: {}
+  volumes:
+    23c29a5baf044bcb9686555e466454d5:
+      image_group_id: I8LS17576
+      title: ''
+      volume_number: 1
+      total_pages: 350
